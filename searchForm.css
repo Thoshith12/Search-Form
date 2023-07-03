@@ -1,0 +1,28 @@
+body{
+    background-color: cadetblue;
+    }
+h1{
+    background-color: rgb(166, 215, 116);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width:30%;
+    border: 2px solid black;
+    border-radius: 2rem;
+    padding: 1rem;
+    height: 1.5rem;
+}
+input{
+    background-color: antiquewhite;
+    border: 2px solid black;
+    border-radius: 6px;
+    margin-left: 3rem ;
+    width: 20%;
+}
+li{
+    border: 2px solid white;
+    width: 20%; 
+    display: flex;
+    justify-content: center; 
+}
